@@ -5,6 +5,31 @@ body {
 
 h1 {
   font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#nav, #nav p {
+  font-size: 18px;
+  color: white;
+}
+
+#about {
+  font-size: 32 px;
+  font-weight: bold;
+}
+
+h3, #design, #design p {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#design p {
+  color: white;
+}
+
+p {
+  font-size: 14px;
 }
 
 #home, #design {
